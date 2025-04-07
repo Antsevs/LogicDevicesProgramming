@@ -1,6 +1,6 @@
 # Logic Devices Programming
 
-This repository contains coursework and project files for a Logic Devices Programming class, focusing on digital logic design and implementation using VHDL and Quartus block diagrams (.bdf).
+This repository contains coursework and project files for a Logic Devices Programming class, focusing on digital logic design and implementation using VHDL and Quartus block diagrams (.bdf). 
 
 ## Repository Structure
 
@@ -8,7 +8,7 @@ This repository contains coursework and project files for a Logic Devices Progra
   Contains VHDL and block diagram files created during classroom instruction.
 
 - **Labs/**  
-  Includes lab exercises designed to reinforce concepts in digital design, such as combinational logic, sequential circuits, and finite state machines.
+  Includes lab exercises designed to reinforce concepts in digital design, such as combinational logic, sequential circuits, and finite state machines. Each lab has a report included, which explains intent, code, simulation data, and results.
 
 - **Project/**  
   Final course project files using VHDL or block diagrams.
@@ -46,4 +46,4 @@ To work with the files in this repository:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project has no licensing.
